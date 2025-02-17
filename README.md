@@ -1,4 +1,4 @@
-# Meu Site - Currículo Online
+# WebCV
 
 Um site pessoal minimalista desenvolvido em Clojure.
 
